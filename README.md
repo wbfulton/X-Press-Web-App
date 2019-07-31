@@ -3,15 +3,15 @@ Capstone project for the Codecademy back-end development course. Codecademy prov
 
 # Installing
   Download source code and in terminal type:
-    npm install express
-    npm install body-parser
-    npm install cors
-    npm install morgan
-    npm install sqlite3
-    npm install nodemon
-    npm install errorhandler
-    npm install @babel/core @babel/node --save-dev
-    npm install @babel/preset-env --save-dev
+    npm install express, 
+    npm install body-parser, 
+    npm install cors, 
+    npm install morgan, 
+    npm install sqlite3, 
+    npm install nodemon, 
+    npm install errorhandler, 
+    npm install @babel/core @babel/node --save-dev, 
+    npm install @babel/preset-env --save-dev, 
 
 # Codecademy READ.ME File
 ## Project Overview
