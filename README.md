@@ -13,7 +13,7 @@ Capstone project for the Codecademy back-end development course. Codecademy prov
     npm install @babel/core @babel/node --save-dev
     npm install @babel/preset-env --save-dev
 
-### Codecademy READ.ME File Detailing what to Create
+# Codecademy READ.ME File
 ## Project Overview
 
 In this capstone project, you will build all of the routing and database logic for an internal tool for a comic book publishing company called X-Press Publishing.
